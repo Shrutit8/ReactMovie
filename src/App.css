@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Crimson+Text|EB+Garamond");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+body {
+  font-family: "Roboto", serif;
+}
+
+.listStyle {
+  list-style-type: square;
+  list-style: inline;
+  background-color: rgb(248, 241, 241);
+  text-align: left;
+}
+
+.movieDetailBackground {
+  background-color: rgb(248, 241, 241);
+  text-align: left;
+  padding-left: 40px;
+}
+
+.moviePoster {
+  width: 100%;
+  height: auto;
+}
+
+.ratings {
+  height: 2.3rem;
+  vertical-align: middle;
+  align-content: center;
+  align-self: auto;
+}
+
+.plotText {
+  color: grey;
+}
+
+.starRating {
+  align-content: center;
+}
+
+.moviePosterFeature {
+  width: 40rem;
+  height: 30rem;
+  background-position: center;
+}
+
+.linkAnimate:hover,
+.gotoHomeLink:hover {
+  color: rgb(226, 161, 39);
+}
+
+.linkAnimate {
+  padding: 2rem;
+}
+.featureContent {
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+}
+
+.gotoHomeLink {
+  text-align: center;
+  margin-bottom: 2rem;
+}
