@@ -55,8 +55,8 @@ class Search extends Component {
                   name="plot"
                   onChange={this.shortPlot}
                   checked
-                />
-                Full Plot
+                />{" "}
+                Full Plot{" "}
               </label>
               <label>
                 <input
@@ -64,8 +64,8 @@ class Search extends Component {
                   value="short"
                   name="plot"
                   onChange={this.shortPlot}
-                />
-                Short Plot
+                />{" "}
+                Short Plot{" "}
               </label>
             </div>
 
