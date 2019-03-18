@@ -1,4 +1,4 @@
-A project to search and display details of the Movie using the IMDB API. This project is built using:
+A project to search and display details of the Movie using the IMDB API and also shows ratings. This project is built using:
 * React
 * Bootstrap
 * Jest & Enzyme
